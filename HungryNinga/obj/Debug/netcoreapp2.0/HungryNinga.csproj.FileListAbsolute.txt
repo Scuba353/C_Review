@@ -1,0 +1,10 @@
+/Users/allysefischer/Desktop/C#Review/HungryNinga/bin/Debug/netcoreapp2.0/HungryNinga.deps.json
+/Users/allysefischer/Desktop/C#Review/HungryNinga/bin/Debug/netcoreapp2.0/HungryNinga.runtimeconfig.json
+/Users/allysefischer/Desktop/C#Review/HungryNinga/bin/Debug/netcoreapp2.0/HungryNinga.runtimeconfig.dev.json
+/Users/allysefischer/Desktop/C#Review/HungryNinga/bin/Debug/netcoreapp2.0/HungryNinga.dll
+/Users/allysefischer/Desktop/C#Review/HungryNinga/bin/Debug/netcoreapp2.0/HungryNinga.pdb
+/Users/allysefischer/Desktop/C#Review/HungryNinga/obj/Debug/netcoreapp2.0/HungryNinga.csproj.CoreCompileInputs.cache
+/Users/allysefischer/Desktop/C#Review/HungryNinga/obj/Debug/netcoreapp2.0/HungryNinga.AssemblyInfoInputs.cache
+/Users/allysefischer/Desktop/C#Review/HungryNinga/obj/Debug/netcoreapp2.0/HungryNinga.AssemblyInfo.cs
+/Users/allysefischer/Desktop/C#Review/HungryNinga/obj/Debug/netcoreapp2.0/HungryNinga.dll
+/Users/allysefischer/Desktop/C#Review/HungryNinga/obj/Debug/netcoreapp2.0/HungryNinga.pdb

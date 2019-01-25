@@ -1,0 +1,10 @@
+/Users/allysefischer/Desktop/C#Review/Human2/obj/Debug/netcoreapp2.0/Human2.csproj.CoreCompileInputs.cache
+/Users/allysefischer/Desktop/C#Review/Human2/obj/Debug/netcoreapp2.0/Human2.AssemblyInfoInputs.cache
+/Users/allysefischer/Desktop/C#Review/Human2/obj/Debug/netcoreapp2.0/Human2.AssemblyInfo.cs
+/Users/allysefischer/Desktop/C#Review/Human2/bin/Debug/netcoreapp2.0/Human2.deps.json
+/Users/allysefischer/Desktop/C#Review/Human2/bin/Debug/netcoreapp2.0/Human2.runtimeconfig.json
+/Users/allysefischer/Desktop/C#Review/Human2/bin/Debug/netcoreapp2.0/Human2.runtimeconfig.dev.json
+/Users/allysefischer/Desktop/C#Review/Human2/bin/Debug/netcoreapp2.0/Human2.dll
+/Users/allysefischer/Desktop/C#Review/Human2/bin/Debug/netcoreapp2.0/Human2.pdb
+/Users/allysefischer/Desktop/C#Review/Human2/obj/Debug/netcoreapp2.0/Human2.dll
+/Users/allysefischer/Desktop/C#Review/Human2/obj/Debug/netcoreapp2.0/Human2.pdb

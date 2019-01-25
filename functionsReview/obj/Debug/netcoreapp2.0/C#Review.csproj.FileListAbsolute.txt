@@ -1,0 +1,11 @@
+/Users/allysefischer/Desktop/C#Review/bin/Debug/netcoreapp2.0/C#Review.deps.json
+/Users/allysefischer/Desktop/C#Review/bin/Debug/netcoreapp2.0/C#Review.runtimeconfig.json
+/Users/allysefischer/Desktop/C#Review/bin/Debug/netcoreapp2.0/C#Review.runtimeconfig.dev.json
+/Users/allysefischer/Desktop/C#Review/bin/Debug/netcoreapp2.0/C#Review.dll
+/Users/allysefischer/Desktop/C#Review/bin/Debug/netcoreapp2.0/C#Review.pdb
+/Users/allysefischer/Desktop/C#Review/obj/Debug/netcoreapp2.0/C#Review.csprojResolveAssemblyReference.cache
+/Users/allysefischer/Desktop/C#Review/obj/Debug/netcoreapp2.0/C#Review.csproj.CoreCompileInputs.cache
+/Users/allysefischer/Desktop/C#Review/obj/Debug/netcoreapp2.0/C#Review.AssemblyInfoInputs.cache
+/Users/allysefischer/Desktop/C#Review/obj/Debug/netcoreapp2.0/C#Review.AssemblyInfo.cs
+/Users/allysefischer/Desktop/C#Review/obj/Debug/netcoreapp2.0/C#Review.dll
+/Users/allysefischer/Desktop/C#Review/obj/Debug/netcoreapp2.0/C#Review.pdb
