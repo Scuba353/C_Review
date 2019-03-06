@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+    </head>
+    <body>
+        <h1>Dojo Survey</h1>
+        <form action="renderdata" method=post>
+            Your Name: <input type="text" name="fullname"> <br>
+            Dojo Location:  <select name="location">
+                                <option value="Seattle">Seattle</option>
+                                <option value="Boise">Boise</option>
+                                <option value="Chicago">Chicago</option>
+                                <option value="Austin">Austin</option>
+                            </select><br>
+            Favorite Language: <select name="language">
+                                <option value="C#">C#</option>
+                                <option value="Python">Python</option>
+                                <option value="MEAN">MEAN</option>
+                                <option value="Java">Java</option>
+                            </select><br>
+            Comment (optional): <input type= "text" name="comment"><br>
+            <button type="submit">Submit</button>
+        </form>
+    </body>
+</html>
