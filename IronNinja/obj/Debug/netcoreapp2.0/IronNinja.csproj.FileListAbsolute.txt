@@ -1,0 +1,10 @@
+/Users/allysefischer/Desktop/C#Review/IronNinja/obj/Debug/netcoreapp2.0/IronNinja.csproj.CoreCompileInputs.cache
+/Users/allysefischer/Desktop/C#Review/IronNinja/obj/Debug/netcoreapp2.0/IronNinja.AssemblyInfoInputs.cache
+/Users/allysefischer/Desktop/C#Review/IronNinja/obj/Debug/netcoreapp2.0/IronNinja.AssemblyInfo.cs
+/Users/allysefischer/Desktop/C#Review/IronNinja/bin/Debug/netcoreapp2.0/IronNinja.deps.json
+/Users/allysefischer/Desktop/C#Review/IronNinja/bin/Debug/netcoreapp2.0/IronNinja.runtimeconfig.json
+/Users/allysefischer/Desktop/C#Review/IronNinja/bin/Debug/netcoreapp2.0/IronNinja.runtimeconfig.dev.json
+/Users/allysefischer/Desktop/C#Review/IronNinja/bin/Debug/netcoreapp2.0/IronNinja.dll
+/Users/allysefischer/Desktop/C#Review/IronNinja/bin/Debug/netcoreapp2.0/IronNinja.pdb
+/Users/allysefischer/Desktop/C#Review/IronNinja/obj/Debug/netcoreapp2.0/IronNinja.dll
+/Users/allysefischer/Desktop/C#Review/IronNinja/obj/Debug/netcoreapp2.0/IronNinja.pdb

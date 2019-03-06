@@ -3,10 +3,10 @@ using System.Collections.Generic;
 
 namespace IronNinja{
 
-    class SweetTooth: Ninja
+    class SpiceHound: Ninja
     {
         public override bool IsFull(){
-            if(calorieIntake < 1500){
+            if(calorieIntake < 1200){
                 return false;
             } 
             else {
@@ -16,12 +16,12 @@ namespace IronNinja{
 
         public override void Eat(IConsumable item){
             if(IsFull() == true){
-                Console.WriteLine("Your Ninja is a fatty and can't eat anymore!");
+                Console.WriteLine("Your Ninja is too Spicy and can't eat anymore!");
             }
             else{
                 calorieIntake+= item.Calories;
-                if(item.IsSweet == true){
-                    calorieIntake += 10;  
+                if(item.IsSpicy == true){
+                    calorieIntake -= 5;  
                 }
                 FoodHistory.Add(item);
                 Console.WriteLine(item.GetInfo());

@@ -15,10 +15,11 @@ namespace IronNinja{
         }
     
         // Add a constructor method
-        public Drink(string item, int cal, bool spice, bool sweet= true){
+        public Drink(string item, int cal, bool spice){
                 Name= item;
                 Calories= cal;
                 IsSpicy= spice;
+                IsSweet= true;
             }
         //Make sure drink objects are always sweet
     }  
