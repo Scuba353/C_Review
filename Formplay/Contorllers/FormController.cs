@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Formplay.Models;
+
 namespace Formplay.Controllers
 {
     public class FormController : Controller
@@ -13,14 +15,14 @@ namespace Formplay.Controllers
 
         [HttpPost]
         [Route("renderdata")]
-        public IActionResult Data(string fullname, string location, string language, string comment)
+        public IActionResult Data(Survey answers)
         {
-                ViewBag.name= fullname;
-                ViewBag.loc=location;
-                ViewBag.lan= language;
-                ViewBag.com=comment;
+                // ViewBag.name= answers.fullname;
+                // ViewBag.loc= answers.location;
+                // ViewBag.lan= answers.language;
+                // ViewBag.com= answers.comment;
 
-            return View("Data");
+            return View("Data", answers);
         }
     }
 }

@@ -43,7 +43,7 @@ namespace AspNetCore
             WriteLiteral("\n<!DOCTYPE html>\n<html>\n    ");
             EndContext();
             BeginContext(28, 79, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b6cd42ee502481193032f627b38dcdd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fa80397728754289af4a9fa6b9872d3a", async() => {
                 BeginContext(34, 66, true);
                 WriteLiteral("\n        <meta charset=\'utf-8\'>\n        <title>Hello!</title>\n    ");
                 EndContext();
@@ -63,7 +63,7 @@ namespace AspNetCore
             WriteLiteral("\n    ");
             EndContext();
             BeginContext(112, 1043, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fdce05436f48460dba2259589963c40b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5614588f839646718537dbd450db17c7", async() => {
                 BeginContext(118, 1030, true);
                 WriteLiteral(@"
         <h1>Dojo Survey</h1>
