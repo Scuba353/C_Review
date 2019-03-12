@@ -1,0 +1,6 @@
+﻿@using MVCapp.Models;
+@model List<User>;
+
+    @foreach(var person in Model){
+        <p>@person.FirstName @person.LastName</p>
+    }
