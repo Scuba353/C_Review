@@ -1,0 +1,14 @@
+@model LogReg.Models.Login
+
+<form asp-action="Login" asp-controller="Home" method="post">  
+    <span asp-validation-for="Email"></span>
+    <label asp-for="Email"></label>
+    <input asp-for="Email">
+
+    <span asp-validation-for="Password"></span>
+    <label asp-for="Password"></label>
+    <input asp-for="Password">
+
+     <input value="Login" type="submit">  
+     
+</form>
