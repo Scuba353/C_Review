@@ -1,0 +1,11 @@
+/Users/allysefischer/Desktop/C#Review/SLL/bin/Debug/netcoreapp2.1/SLL.deps.json
+/Users/allysefischer/Desktop/C#Review/SLL/bin/Debug/netcoreapp2.1/SLL.runtimeconfig.json
+/Users/allysefischer/Desktop/C#Review/SLL/bin/Debug/netcoreapp2.1/SLL.runtimeconfig.dev.json
+/Users/allysefischer/Desktop/C#Review/SLL/bin/Debug/netcoreapp2.1/SLL.dll
+/Users/allysefischer/Desktop/C#Review/SLL/bin/Debug/netcoreapp2.1/SLL.pdb
+/Users/allysefischer/Desktop/C#Review/SLL/obj/Debug/netcoreapp2.1/SLL.csprojAssemblyReference.cache
+/Users/allysefischer/Desktop/C#Review/SLL/obj/Debug/netcoreapp2.1/SLL.csproj.CoreCompileInputs.cache
+/Users/allysefischer/Desktop/C#Review/SLL/obj/Debug/netcoreapp2.1/SLL.AssemblyInfoInputs.cache
+/Users/allysefischer/Desktop/C#Review/SLL/obj/Debug/netcoreapp2.1/SLL.AssemblyInfo.cs
+/Users/allysefischer/Desktop/C#Review/SLL/obj/Debug/netcoreapp2.1/SLL.dll
+/Users/allysefischer/Desktop/C#Review/SLL/obj/Debug/netcoreapp2.1/SLL.pdb
