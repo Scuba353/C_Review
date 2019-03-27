@@ -25,6 +25,22 @@ namespace SLL
 
         //all SSList functions follow here- they are functions of the list data structure not the individual nodes
         
+        //Count all nodes in a list
+        public int countNodes(){
+            if(head == null){
+                return 0;
+            }
+            else{
+                Node curr= head;
+                int count= 0;
+                while(curr != null){
+                    curr= curr.next;
+                    count ++;
+                }
+                return count;
+            }
+        }
+
         //print all node and their next pointers in a SLL
         public void PrintNodes(){
             if(head == null){
@@ -65,20 +81,48 @@ namespace SLL
             else{
                 Node curr= head;
                 int count= 0;
-                if(count == position){
+                if(count < position){
                     curr = curr.next; 
                     count ++;
                     Console.WriteLine (count);
                 }
-                Console.WriteLine("broke out for node add");
-                Console.WriteLine(newAdd.next);
-                newAdd.next =curr.next;
-                Console.WriteLine(newAdd.next);
+                newAdd.next = curr.next;
                 curr.next = newAdd; 
             }
         }
 
+        //Return Last Node
+        public Node returnEnd(){
 
+            if(head == null){
+                return null;
+            }
+            else{
+                Node curr= head;
+                while(curr.next != null){
+                    curr = curr.next;
+                }
+                return curr;
+            }
+        }
+
+        //Remove End Node
+        public Node removeEnd(){
+
+            if(head == null){
+                return null;
+            }
+            else{
+                Node curr= head;
+                Node temp= head;
+                while(curr.next != null){
+                    temp= curr;
+                    curr = curr.next;
+                }
+                temp.next= null;
+                return curr;
+            }
+        }
 
 
 
@@ -102,10 +146,14 @@ namespace SLL
             myList.addToEnd("Hello");
             myList.addToEnd("Magical");
             myList.addToEnd("World");
-            myList.PrintNodes();
+            //myList.PrintNodes();
+            //Console.WriteLine(myList.countNodes());
+            //myList.addAnywhere("A new string", 2);
+            //myList.PrintNodes();
+            //Console.WriteLine(myList.countNodes());
+            Console.WriteLine(myList.returnEnd());
+            Console.WriteLine(myList.removeEnd());
 
-            myList.addAnywhere("A new string", 2);
-            myList.PrintNodes();
 
 
 
